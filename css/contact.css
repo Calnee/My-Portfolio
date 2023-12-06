@@ -1,0 +1,48 @@
+.contactPage{
+    display: flex;
+    width: 100%;
+    position: relative;
+}
+.contactme{
+    padding-left: 20px;
+    
+}
+.addressrt{
+    padding-top: 90px;
+    padding-right: 450px;
+    position: absolute;
+    right: 35%;
+}
+.email{
+    padding-top: 20px;
+}
+
+.git{
+    padding-top: 20px;
+}
+.fb{
+    padding-top: 20px;
+}
+.iconlft{
+   display: flex; 
+   width: 50%; 
+   position: absolute;
+   top: 20%;
+   left: 10%;
+}
+.phicon{
+    padding-right: 80px;
+    padding-top:100px ;
+}
+.fbicon{
+    padding-right: 80px; 
+    padding-top: 20px;
+}
+.mailicon{
+    padding-right: 80px; 
+    padding-top: 20px;
+}
+.giticon{
+    padding-right: 80px; 
+    padding-top: 20px;
+}

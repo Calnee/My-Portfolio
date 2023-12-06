@@ -1,0 +1,34 @@
+.educationPage{
+    display: flex;
+    width: 100%;
+    background-color: black;
+    height: 500px;
+}
+.institute{
+    flex: 1;
+    width:70%;
+    background-color:black;
+
+}
+.grad1{
+    padding-top: 90px;
+}
+.pg1{
+    padding-top: 10px;
+}
+.edu{
+    flex: 1;
+    width:30%;
+    padding-left: 20px;
+    padding-top: 50px;
+    
+}
+.pg{
+   padding-top: 110px;  
+   padding-left: 300px;
+
+}
+.grad{
+    padding-top: 50px;
+    padding-left: 330px;
+}

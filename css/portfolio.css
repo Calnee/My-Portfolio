@@ -1,0 +1,64 @@
+.homepage{
+   
+    background-color: black;
+    width: 100%;
+    height:600px;
+}
+.nav_container{
+    display: flex;
+    background-color: black;
+    width: 100%;
+    height:20%;
+    border-color: gainsboro;
+    
+   
+}
+.empty{
+    flex:1;
+    background-color: black;
+    width:40%;
+    height: 30%;
+}
+.navBar{
+    flex:2;
+    background-color: black;
+    width:60%;
+    height: 30%;
+
+}
+.navBar a{
+    padding: 14px 20px;
+    padding-bottom: 20px;
+}
+
+.homepg_body{
+    display:flex;
+    width:100%;
+    position:relative;
+    
+}
+.titletext{
+    flex:1;
+    font-family:'Times New Roman', Times, serif;
+    position: absolute;
+    top:20%;
+    bottom: 80%;
+    right: 60%;
+    padding-left: 90px;
+    margin-top: 15px;
+    margin-bottom: 15px;
+    margin-right: 15px;
+    margin-left: 15px;
+    border-radius: 10px;
+    
+}
+
+
+.photo{
+    
+    flex:2;
+    position: absolute;
+    left: 60%;
+    border-radius: 50%;
+    
+}

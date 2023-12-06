@@ -1,0 +1,25 @@
+.aboutMePage{
+    display: flex;
+    width:100%;
+    height:400px;
+}
+.rtcolumn{
+    flex:1;
+    background-color: gainsboro;
+}
+.lftcolumn{
+    flex:2;
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-top: 50px;
+    
+}
+.hobby{
+    padding-left: 20px;
+    padding-top: 50px;
+    
+}
+.hobbylist{
+    padding-left: 40px;  
+    
+}
